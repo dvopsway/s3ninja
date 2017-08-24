@@ -1,0 +1,13 @@
+*~
+*.pyc
+*.pyo
+*.pyt
+*.pytc
+*.egg
+.DS_Store
+.*.swp
+.coverage
+s3ninja.egg-info
+docs/_build
+dist
+build/
